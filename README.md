@@ -9,7 +9,7 @@ Este repositorio documenta mi camino de formación continua, combinando teoría 
 ## 🇪🇸 Certificaciones Obtenidas
 
 ### 🚀 1. Desarrollo con IA - El Nuevo Programador
-- **Organizado por:** [BIGschool](https://thebigschool.com/)
+- **Organizado por:** mouredev [BIGschool](https://thebigschool.com/)
 - **Duración:** 4 horas
 - **Fecha:** 26/11/2026
 - **Estado:** ✅ Certificado de asistencia obtenido
@@ -20,7 +20,7 @@ Este repositorio documenta mi camino de formación continua, combinando teoría 
 ## 🇺🇸 Certifications Obtained
 
 ### 🚀 1. AI Development Course - The New Programmer
-- **Organized by:** [BIGschool](https://thebigschool.com/)
+- **Organized by:** mouredev [BIGschool](https://thebigschool.com/)
 - **Duration:** 4 hours
 - **Date:** November 26, 2026
 - **Status:** ✅ Certificate of attendance obtained
