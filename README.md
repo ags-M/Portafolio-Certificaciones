@@ -33,7 +33,7 @@ Este repositorio documenta mi camino de formación continua, combinando teoría 
 - **Organizado por:** mouredev [BIGschool](https://thebigschool.com/)
 - **Duración:** 6 horas
 - **Fecha:** 27/11/2026
-- **Estado:** ✅ Certificado de asistencia obtenido
+- **Estado:** ✅ [Certificado](https://certificados.thebigschool.com/wp-content/uploads/certs/MDEV3/Certificado-Alejandro-Gustavo-Sabatini-12e06e8b69.pdf) 
 - **Descripción:** Iniciación al desarrollo y aplicación práctica de herramientas de Inteligencia Artificial en la programación.
 
 ---
