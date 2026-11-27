@@ -8,5 +8,5 @@ Este repositorio documenta mi camino de formación continua, combinando teoría 
 
   
   
-  <img width="771" height="560" alt="vegito_fusion_nombres" src="https://github.com/user-attachments/assets/a029b1be-3984-43a4-9df1-5a7848335946" />
+
 
