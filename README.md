@@ -29,7 +29,7 @@ Este repositorio documenta mi camino de formación continua, combinando teoría 
 ---
 ## 🇪🇸 Certificaciones Obtenidas
 
-### 🚀 1. Desarrollo con IA: Programa con Agentes
+### 🚀 2. Desarrollo con IA: Programa con Agentes
 - **Organizado por:** mouredev [BIGschool](https://thebigschool.com/)
 - **Duración:** 6 horas
 - **Fecha:** 27/11/2026
@@ -40,14 +40,33 @@ Este repositorio documenta mi camino de formación continua, combinando teoría 
 
 ## 🇺🇸 Certifications Obtained
 
-### 🚀 1. Development with AI: Program with Agents
+### 🚀 2. Development with AI: Program with Agents
 - **Organized by:** mouredev [BIGschool](https://thebigschool.com/)
 - **Duration:** 6 hours
 - **Date:** November 27, 2026
 - **Status:** ✅ Certificate of attendance obtained
 - **Description:** Introduction to the development and practical application of Artificial Intelligence tools in programming.
 
+---
+## 🇪🇸 Certificaciones Obtenidas
 
+### 🚀 3. Desarrollo con IA: de cero a Producción
+- **Organizado por:** mouredev [BIGschool](https://thebigschool.com/)
+- **Duración:** 6 horas
+- **Fecha:** 27/11/2026
+- **Estado:** ✅ Certificado de asistencia obtenido
+- **Descripción:** Iniciación al desarrollo y aplicación práctica de herramientas de Inteligencia Artificial en la programación.
+
+---
+
+## 🇺🇸 Certifications Obtained
+
+### 🚀 3. Development with AI: from zero to Production
+- **Organized by:** mouredev [BIGschool](https://thebigschool.com/)
+- **Duration:** 6 hours
+- **Date:** November 27, 2026
+- **Status:** ✅ Certificate of attendance obtained
+- **Description:** Introduction to the development and practical application of Artificial Intelligence tools in programming.
 
 
 
