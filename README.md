@@ -20,7 +20,7 @@ Este repositorio documenta mi camino de formación continua, combinando teoría 
 ## 🇺🇸 Certifications Obtained
 
 ### 🚀 1. Free AI Development Course - The New Programmer
-- **Organized by:** [BIGschool](https://www.bigschool.com/)
+- **Organized by:** [BIGschool](https://thebigschool.com/)
 - **Duration:** 4 hours
 - **Date:** November 26, 2026
 - **Status:** ✅ Certificate of attendance obtained
